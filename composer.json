@@ -1,5 +1,5 @@
 {
-    "name": "violet88/mollie-request-logging",
+    "name": "violet88/mollie-logging",
     "description": "Logs mollie request to the CMS",
     "type": "silverstripe-vendormodule",
     "keywords": [
@@ -17,8 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "SilverStripeModule\\Skeleton\\": "src/",
-            "SilverStripeModule\\Skeleton\\Tests\\": "tests/php/"
+            "Violet88\\MollieLogging\\": "src/"
         }
     },
     "extra": {
