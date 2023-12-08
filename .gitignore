@@ -1,0 +1,44 @@
+# SilverStripe specific
+/_ss_environment.php
+/.env
+
+# SilverStripe cache and temp files
+/.idea/
+/_build/
+/.env
+
+# SilverStripe logs
+/logs/
+
+# SilverStripe uploads
+/assets/
+
+# SilverStripe templates cache
+/.templatecache/
+
+# SilverStripe versioned files
+/.upgrade/
+
+# Composer
+/vendor/
+
+# Node.js
+/node_modules/
+
+# Logs and databases
+/error_log
+/Database/
+/*.sqlite
+/*.sql
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Composer generated files
+/composer.phar
+/composer.lock
+
+# User-specific files
+/.php_cs.cache
+/phpstan.neon
