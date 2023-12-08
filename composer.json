@@ -1,6 +1,6 @@
 {
-    "name": "silverstripe-module/skeleton",
-    "description": "A skeleton for Silverstripe CMS modules.",
+    "name": "violet88/mollie-request-logging",
+    "description": "Logs mollie request to the CMS",
     "type": "silverstripe-vendormodule",
     "keywords": [
         "silverstripe",
